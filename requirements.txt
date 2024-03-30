@@ -6,16 +6,13 @@ beautifulsoup4==4.12.2
 blinker==1.7.0
 bs4==0.0.1
 cachetools==5.3.2
-certifi @ file:///private/tmp/python-certifi-20231115-62343-1je6yhv/certifi-2023.7.22
 charset-normalizer==3.3.2
 click==8.1.7
 defusedxml==0.7.1
 distlib==0.3.7
 distro==1.9.0
-docutils @ file:///private/tmp/docutils-20231115-62027-1gt7uh/docutils-0.20.1
 et-xmlfile==1.1.0
 filelock==3.13.1
-flit_core @ file:///private/tmp/python-flit-core-20231115-62560-v4lawr/flit_core-3.9.0
 gitdb==4.0.11
 GitPython==3.1.40
 h11==0.14.0
@@ -29,14 +26,12 @@ jsonschema==4.20.0
 jsonschema-specifications==2023.12.1
 lml==0.1.0
 markdown-it-py==3.0.0
-MarkupSafe @ file:///private/tmp/python-markupsafe-20231115-62443-j85e6r/MarkupSafe-2.1.3
 mdurl==0.1.2
 nltk==3.8.1
 numpy==1.26.2
 odfpy==1.4.1
 openai==1.6.1
 openpyxl==3.1.2
-packaging @ file:///private/tmp/python-packaging-20231115-62663-lef2by/packaging-23.2
 pandas==2.1.4
 pdfkit==1.0.0
 Pillow==10.1.0
@@ -50,7 +45,6 @@ pydantic_core==2.14.6
 pydeck==0.8.1b0
 pyexcel-io==0.6.6
 pyexcel-ods==0.6.0
-Pygments @ file:///private/tmp/pygments-20231115-62143-1hagip8/Pygments-2.16.1
 pyspark==3.5.0
 python-dateutil==2.8.2
 pytz==2023.3.post1
@@ -66,7 +60,6 @@ smmap==5.0.1
 sniffio==1.3.0
 soupsieve==2.5
 streamlit==1.29.0
-tabulate @ file:///private/tmp/python-tabulate-20231115-62764-1y1mhua/tabulate-0.9.0
 tenacity==8.2.3
 threadpoolctl==3.4.0
 toml==0.10.2
